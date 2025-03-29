@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1743177907 source:d:\codeblocksproject\nnsum\main.cpp
+	<iostream>
+	<vector>
+	<chrono>
+	<algorithm>
+	<omp.h>
+	<fstream>
+
